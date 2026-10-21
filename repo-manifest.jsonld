@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/scrapy/sphinx-scrapy/commit/9231605ac5f164edf053998ed9ba4b61b385f691",
       "git:hexsha": "9231605ac5f164edf053998ed9ba4b61b385f691",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.14.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.14.0",
+      "repolex:parsedAt": "2026-10-21T02:35:20.678362+00:00"
     },
     {
       "@id": "https://repolex.ai/r/scrapy/sphinx-scrapy/commit/549b4de5b7f32d5f3fb79db1af3899f52722a9ea",
