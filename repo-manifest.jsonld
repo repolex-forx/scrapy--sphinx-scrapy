@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/scrapy/sphinx-scrapy/commit/9231605ac5f164edf053998ed9ba4b61b385f691",
       "git:hexsha": "9231605ac5f164edf053998ed9ba4b61b385f691",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.14.0"
     },
     {
