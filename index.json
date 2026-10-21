@@ -1,0 +1,11 @@
+{
+  "org": "scrapy",
+  "repo": "sphinx-scrapy",
+  "versions": [
+    {
+      "commit": "9231605ac5f164edf053998ed9ba4b61b385f691",
+      "tag": "0.14.0",
+      "parsed_at": "2026-10-21T02:35:20.679031+00:00"
+    }
+  ]
+}
